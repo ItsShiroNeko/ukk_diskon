@@ -17,18 +17,18 @@ Diskon Kasir adalah sebuah sistem berbasis web yang memungkinkan pengguna untuk 
 ## 🚀 Instalasi & Penggunaan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/repo-diskon-kasir.git
+   git clone https://github.com/ItsShiroNeko/ukk_diskon.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd repo-diskon-kasir
+   cd ukk_diskon
    ```
-3. Import database `diskon_kasir.sql` ke dalam MySQL.
+3. Import database `db_diskon.sql` ke dalam MySQL.
 4. Pastikan file `koneksi.php` sudah sesuai dengan konfigurasi database Anda.
 5. Jalankan di server lokal (XAMPP, Laragon, dll.).
 6. Akses melalui browser:
    ```
-   http://localhost/repo-diskon-kasir/
+   http://localhost/ukk_diskon/
    ```
 
 ## 📸 Tampilan Aplikasi
@@ -43,9 +43,9 @@ Proyek ini tersedia di bawah lisensi MIT. Silakan gunakan dan modifikasi sesuai 
 Jika ingin berkontribusi, silakan fork repo ini, buat branch baru, dan lakukan pull request.
 
 ## 📞 Kontak
-Jika ada pertanyaan, hubungi saya melalui [GitHub Issues](https://github.com/username/repo-diskon-kasir/issues) atau email.
+Jika ada pertanyaan, hubungi saya melalui [GitHub Issues](https://github.com/ItsShiroNeko/ukk_diskon/issues) atau email.
 
 ---
 
-💻 Dibuat dengan ❤️ oleh [Nama Anda]
+💻 Dibuat dengan ❤️ oleh [Shiro Neko]
 
