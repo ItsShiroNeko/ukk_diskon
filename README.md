@@ -32,7 +32,7 @@ Diskon Kasir adalah sebuah sistem berbasis web yang memungkinkan pengguna untuk 
    ```
 
 ## 📸 Tampilan Aplikasi
-![Tampilan Form Diskon](https://imgur.com/a/Trje6YC)
+![Tampilan Form Diskon](https://i.imgur.com/Ory8Uap.png)
 - Form perhitungan diskon
 - Tabel daftar barang
 - Histori transaksi diskon dengan fitur scroll jika data lebih dari 8
